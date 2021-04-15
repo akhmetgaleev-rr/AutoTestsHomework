@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7238b595_002D7e33_002D45e3_002D9853_002D36c256edf289/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="ParrotNameSite_FillFormWIthEmail_Success" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CB04E424-4F3D-4504-BE50-8D02D59E950C::.NETFramework,Version=v4.7.2::SeleniumTestsAtPrictice.WhatIsYourParrotName.ParrotNameSite_FillFormWIthEmail_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CB04E424-4F3D-4504-BE50-8D02D59E950C::.NETFramework,Version=v4.7.2::SeleniumTestsAtPrictice.WhatIsYourParrotName.ParrotNameSite_ClickAnotherEmail_EmailInputIsEmpty&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CB04E424-4F3D-4504-BE50-8D02D59E950C::.NETFramework,Version=v4.7.2::SeleniumTestsAtPrictice.WhatIsYourParrotName.ParrotNameSite_FillFormWIthEmptyEmail_Fail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CB04E424-4F3D-4504-BE50-8D02D59E950C::.NETFramework,Version=v4.7.2::SeleniumTestsAtPrictice.WhatIsYourParrotName.ParrotNameSite_FillFormWIthInvalidEmail_Fail&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CB04E424-4F3D-4504-BE50-8D02D59E950C::.NETFramework,Version=v4.7.2::SeleniumTestsAtPrictice.WhatIsYourParrotName.ParrotNameSite_ChooseBoyName_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CB04E424-4F3D-4504-BE50-8D02D59E950C::.NETFramework,Version=v4.7.2::SeleniumTestsAtPrictice.WhatIsYourParrotName.ParrotNameSite_ChooseGirlName_Success&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::CB04E424-4F3D-4504-BE50-8D02D59E950C::.NETFramework,Version=v4.7.2::SeleniumTestsAtPrictice.WhatIsYourParrotName.ParrotNameSite_FillFormWIthEmailWithoutDomen_Fail&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

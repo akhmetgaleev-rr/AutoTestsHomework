@@ -1,0 +1,14 @@
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\bin\Debug\chromedriver.exe
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\bin\Debug\What's your parrot name.dll
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\bin\Debug\What's your parrot name.pdb
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\bin\Debug\nunit.framework.dll
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\bin\Debug\WebDriver.dll
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\bin\Debug\WebDriver.Support.dll
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\bin\Debug\nunit.framework.xml
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\bin\Debug\WebDriver.xml
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\bin\Debug\WebDriver.Support.xml
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\obj\Debug\What's your parrot name.csprojAssemblyReference.cache
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\obj\Debug\What's your parrot name.csproj.CoreCompileInputs.cache
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\obj\Debug\What's your parrot name.csproj.CopyComplete
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\obj\Debug\What's your parrot name.dll
+C:\Users\ТестовыйПК\source\repos\What's your parrot name\What's your parrot name\obj\Debug\What's your parrot name.pdb
